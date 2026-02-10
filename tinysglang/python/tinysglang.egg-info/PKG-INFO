@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: tinysglang
+Version: 0.1.0
+Summary: A tiny sglang implementation
+Requires-Python: >=3.10
+Requires-Dist: torch
